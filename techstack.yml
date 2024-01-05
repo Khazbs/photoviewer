@@ -1,7 +1,8 @@
 repo_name: Khazbs/photoviewer
 report_id: 75f1d04ace0e7c046579638e60f8916b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T15:12:04+00:00'
+timestamp: '2024-01-05T08:53:18+00:00'
 requested_by: Khazbs
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/Khazbs/photoviewer
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Khazbs/photoviewer
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/Khazbs/photoviewer
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Khazbs/photoviewer
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Khazbs/photoviewer
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -65,6 +71,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/Khazbs/photoviewer/blob/master/src/android/photoviewer.gradle
   detection_source: src/android/photoviewer.gradle
   last_updated_by: Roman A. Sarria
   last_updated_on: 2015-10-10 03:22:19.000000000 Z
@@ -76,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Khazbs/photoviewer/blob/master/package.json
   detection_source: package.json
   last_updated_by: Roman A. Sarria
   last_updated_on: 2015-10-09 19:32:37.000000000 Z
